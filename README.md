@@ -1,4 +1,4 @@
-# PoptartUi
+![banner](https://user-images.githubusercontent.com/1305776/42136786-a48006a2-7d16-11e8-96cf-1a3b853f02c3.png)
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/poptart_ui`. To experiment with that code, run `bin/console` for an interactive prompt.
 
