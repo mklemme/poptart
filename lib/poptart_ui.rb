@@ -1,5 +1,8 @@
 require "poptart_ui/version"
 
 module PoptartUi
-  # Your code goes here...
+  module Rails
+    class Engine < ::Rails::Engine
+    end
+  end
 end
